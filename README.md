@@ -2,7 +2,7 @@
 
 Greetings,
 
-Welcome to the NoSQL repository! This project utilizes Python, Pymongo, MongoDB and Pandas to create and hydrate a NoSQL database, perform record management within the database and subsequent exploratory analysis.
+Welcome to the NoSQL-MongoDB repository! This project utilizes Python, Pymongo, MongoDB and Pandas to create and hydrate a NoSQL database, perform record management within the database and subsequent exploratory analysis.
 
 Repository Stucture:
 
