@@ -1,8 +1,13 @@
-# nosql-challenge
+# NoSQL-MongoDB
 
-Greetings!
+Greetings,
 
+Welcome to the NoSQL repository! This project utilizes Python, Pymongo, MongoDB and Pandas to create and hydrate a NoSQL database, perform record management within the database and subsequent exploratory analysis.
 
-Please see included within this repository, all necessary submission files for the Module 12 (NoSQL) challenge. Within the "NoSQL_setup_starter.ipynb" executed jupyter notebook file, is all code associated with the data imports as well as setting up and updating the 'uk_food' database. The "NoSQL_analysis_starter.ipynb" executed jupyter notebook file, contains all code pertaining to the exploratory analysis queries against the database. Also in the repository is a "Resources" folder which contains the starting .json file for initial database hydration.
+Repository Stucture:
 
-Cheers!
+- 'Resources' directory: Contains initial JSON file representing food magazine ratings data
+- "NoSQL_analysis.ipynb": Executed code for database exploratory analysis queries
+- "NoSQL_setup.ipynb": Executed code for database creation/hydration and record management
+
+Thanks!
